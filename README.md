@@ -1,13 +1,13 @@
 # About ME
 
 ```shell
- { "name" : "David Álvarez Castro",
-   "role" : "Full-Stack Dev",
-   "data" : 
-     { 
-      "Linkedin" : "https://github.com/davidalvarezcastro/", 
-      "Contact"  : "davidac0291@gmail.com",
-     }
+ {
+  "name" : "David Álvarez Castro",
+  "role" : "Full-Stack Dev",
+  "data" : { 
+              "LinkedIn" : "https://www.linkedin.com/in/david-alvarez-castro-g/", 
+              "Contact"  : "davidac0291@gmail.com",
+           }
  }
 ```
 ## Tech Stuff
@@ -26,13 +26,15 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </p>
 <p>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge">
 </p>
 <h4>Frontend Development</h4>
 <p>
@@ -43,6 +45,7 @@
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge">
 </p>
 <h4>Backend Development</h4>
 <p>
@@ -65,8 +68,9 @@
 </p>
 <h4>Testing</h4>
 <p>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
@@ -113,12 +117,15 @@
 ## More Info
 
 ### 🌱 I'm currently learning...
-
+![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)
+![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=for-the-badge)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 
 ### Sometimes I write
 
