@@ -1,6 +1,6 @@
 # About ME
 
-```shell
+```json
  {
   "name" : "David Álvarez Castro",
   "role" : "Full-Stack Dev",
@@ -10,7 +10,9 @@
            }
  }
 ```
+
 ## Tech Stuff
+
 <h3> 🚀 Principal Stack </h3> 
 <p>
    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -20,18 +22,24 @@
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
   
-<h4>Programming Languages</h4>
+<h4>💻 Programming Languages</h4>
+<h5>Advanced</h5>
 <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
+
+<h5>Mid</h5>
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
+
+<h5>Beginner</h5>
 <p>
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge">
@@ -66,14 +74,14 @@
   <img src="https://img.shields.io/badge/Elastic%20Stack-005571?logo=elasticstack&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo">
 </p>
-<h4>Testing</h4>
+<h4> 🔎 Testing</h4>
 <p>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge">
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 </p>
-<h4>Tools & Technologies</h4>
+<h4>🔧 Tools & Technologies</h4>
 <p>
   <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge">
@@ -107,6 +115,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=davidalvarezcastro&repo=vue_admin_template&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/davidalvarezcastro/vue_admin_template)
 
 ### Github Stats:
+
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalvarezcastro&theme=radical&card_width=450em)](https://github.com/davidalvarezcastro/davidalvarezcastro/github-readme-stats"/></td>
@@ -117,6 +126,7 @@
 ## More Info
 
 ### 🌱 I'm currently learning...
+
 ![Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff&style=for-the-badge)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
@@ -124,8 +134,10 @@
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=for-the-badge)
 ![Terraform Badge](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=for-the-badge)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
+![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=homeassistant&logoColor=fff&style=for-the-badge)
+![Node-RED Badge](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=fff&style=for-the-badge)
+![Zigbee Badge](https://img.shields.io/badge/Zigbee-EB0443?logo=zigbee&logoColor=fff&style=for-the-badge)
 
 ### Sometimes I write
 
